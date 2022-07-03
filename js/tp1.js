@@ -12,6 +12,13 @@
 
 /* 4.- Escribe un programa de dos líneas que pida el nombre del usuario con un prompt y escriba un texto que diga «Hola nombreUsuario» */
 
-let nombre = prompt("Cual es tu nombre?");
-document.write("Hola " + nombre);
+// let nombre = prompt("Cual es tu nombre?");
+// document.write("Hola " + nombre);
+
+/* 5.- Escribe un programa de tres líneas que pida un número, pida otro número y escriba el resultado de sumar estos dos números. */
+
+// let num1 = parseInt(prompt("Primer numero", 10));
+// let num2 = parseInt(prompt("segundo numero", 10));
+
+// document.write("El resultado de la suma es " + (num1 + num2));
 
