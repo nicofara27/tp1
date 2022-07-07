@@ -1,6 +1,6 @@
 // 9.- Escribe un programa que pida una frase y escriba las vocales que aparecen
 
-let frase = prompt("Ingresa una frase corta");
+let frase = prompt("Ingresa una frase de 10 caracteres o menos");
 frase = frase.toLowerCase();
 let vocales = "";
 
@@ -100,7 +100,7 @@ document.write("Las vocales que aparecen en la frase son: " + vocales);
 
 // Este programa muestra las vocales pero sin repetirlas.
 
-// let frase = prompt("Ingresa una frase corta");
+// let frase = prompt("Ingresa una frase de 20 caracteres o menos");
 // let vocales = "";
 // let vocales1 = "";
 // let vocales2 = "";
